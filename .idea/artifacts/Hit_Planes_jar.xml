@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hit Planes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hit_Planes_jar</output-path>
+    <root id="archive" name="Hit Planes.jar">
+      <element id="module-output" name="Hit Planes" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jl1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
